@@ -1,4 +1,4 @@
-baseURL = "https://probefahrer.github.io/"
+baseURL = "probefahrer.github.io"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
