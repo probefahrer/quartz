@@ -1,6 +1,6 @@
 baseURL = "https://probefahrer.github.io/"
 languageCode = "en-us"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
