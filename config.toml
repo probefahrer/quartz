@@ -1,4 +1,4 @@
-baseURL = "probefahrer.github.io/quartz/"
+baseURL = "https://probefahrer.github.io/quartz/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
