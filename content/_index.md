@@ -3,6 +3,8 @@ title: 🪴 Neuroproductivity - Quartz 3.
 enableToc: true
 ---
 tesrt  gnmpplldlsd dsf
+noch ein test 
+
 
 Das hier ist ein Teil meiner Notizen als Digital Garden veröffentlicht. Ein Experiment des [[Arbeiten bei offener Garagentür]].  Die Gedanken und Notizen sind nur so weit zu Ende gedacht, wie ich sie zum aktuellen Zeitpunkt benötige. 
 
