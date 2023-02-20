@@ -1,18 +1,27 @@
 // Add your own CSS here!
 
 :root {
-  --light: #faf8f8;
-  --dark: #141021;
-  --secondary: #284b63;
-  --tertiary: #84a59d;
-  --visited: #afbfc9;
+  --light: #18739F;
+  --dark: #FFFFFF;
+  --secondary: #FFBB27;
+  --tertiary: #FB99B3;
+  --visited: #FFE1A0;
   --primary: #f28482;
-  --gray: #4e4e4e;
+  --gray: #FFFFFF;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
-  --highlighted: #f5dfaf88;
+  --highlighted: #FFBB27;
+  --font-body: "Courier New", monospace;
+  --font-header: 'MS Serif', 'New York', sans-serif;
+  --font-mono: "Source Sans Pro";
 }
+
+    & > p, & > a {
+    font-size: 1.6rem;
+    font-weight: 400;
+    user-select: none;
+  }
 
 [saved-theme="dark"] {
   --light: #1e1e21 !important;
