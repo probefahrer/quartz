@@ -9,6 +9,14 @@ CMD + T um das entsprechende Frontmatter Template einzufügen
 ## Speicherort der Daten
 machHD / Nutzer / Alex / quartz
 
+## quartz spezifisches
+Actions müssen schreibrechte haben
+
+### config dateien
+config.toml
+/data/config.yaml
+/.github/...
+
 ## URL
 https://probefahrer.github.io/quartz/
 
