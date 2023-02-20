@@ -15,12 +15,13 @@
   --font-body: "Courier New", monospace;
   --font-header: 'MS Serif', 'New York', sans-serif;
   --font-mono: "Source Sans Pro";
+}
+
     & > p, & > a {
-    font-size: 1rem;
+    font-size: 1.6rem;
     font-weight: 400;
     user-select: none;
   }
-}
 
 [saved-theme="dark"] {
   --light: #1e1e21 !important;
