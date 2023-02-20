@@ -13,8 +13,10 @@
   --million-progress-bar-color: var(--secondary);
   --highlighted: #FFBB27;
 
-  --font-body: "Fira Code";
-  --font-header: "Inter";
+  --font-body: SFMono-Regular, Menlo, Monaco,
+               Consolas, "Liberation Mono", 
+               "Courier New", monospace;
+  --font-header: "Georgia";
   --font-mono: "Source Sans Pro";
 
 }
