@@ -1,4 +1,4 @@
-Stand:  Februar 2023
+**Stand:  Februar 2023**
 
 Für den Februar habe ich mir das Kaffee-Trinken abgewöhnt und bin auf grünen Tee umgestiegen. 
 
@@ -10,5 +10,7 @@ Auf das Thema [[Neurodiversität]] bin ich durch den Podcast gestoßen, den ich 
 
 Aktuell [[Lesen|lese]] ich seit Jahren wieder viel Fantasy 
 
-und spiele Play per Post DnD und Ironforge als SoloRPG
+und spiele Play per Post DnD 
+und Ironforge als SoloRPG
 
+das Prinzip der NOW Page stammt von [Derek Sivers](https://sive.rs/now)
