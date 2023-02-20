@@ -18,7 +18,11 @@
                "Courier New", monospace;
   --font-header: 'MS Serif', 'New York', sans-serif;
   --font-mono: "Source Sans Pro";
-
+    & > p, & > a {
+    font-size: 1rem;
+    font-weight: 400;
+    user-select: none;
+  }
 }
 
 [saved-theme="dark"] {
