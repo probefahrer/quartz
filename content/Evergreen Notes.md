@@ -1,3 +1,6 @@
+---
+title: "Evergreen Notes"
+---
 
 
 Digital FIrst Methode um mit [[Notizen]] zu arbeiten. (Analoge Methoden sind bsw. [[Zettelkasten]] oder [[Bullet Journal]]).
