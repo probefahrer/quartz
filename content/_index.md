@@ -11,6 +11,8 @@ Meine wichtigste Regel hier:
 [[Schreibe Notizen immer für Dich selbst - nicht für ein Publikum]]. 
 DIese Seite ist auch kein Blog. Ich habe hier eine ganz andere Denk- und Schreibweise, als auf [meinem Blog](https://blog.lxkhl.com). Auf dem Blog halte ich tägliche Dinge fest, die mir begegnen. Das ist kurzfristiger. Hier halte ich die Dinge fest, über ide ich länger nachgedacht habe und die sich viel stärker aufeinander beziehen. 
 
+Meine [[NOW Page]] zeigt, womit ich mich aktuell viel beschäftige.
+
 ****Ich freue mich dennoch, wenn sie Dir auch irgendwie nützlich sein können.**** 
 **FRAGEN UND KOMMENTARE gerne mit SUBJECT: Digital Garden an mail@alex-kahl.de**
 
