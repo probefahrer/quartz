@@ -1,7 +1,9 @@
 ---
-title: 🪴 Neuroproductivity - Quartz 3.
+title: 🧠 Neuroproductivity & 🌱 Digital Garden
 enableToc: true
 ---
+
+**TAGCHEN!**
 
 Das hier ist ein Teil meiner Notizen, die ich als [[Digital Garden]] veröffentliche. Ein Experiment des [[Arbeiten bei offener Garagentür]].  Die Gedanken und Notizen sind nur so weit zu Ende gedacht und geschrieben, wie ich sie zum aktuellen Zeitpunkt benötige. 
 
