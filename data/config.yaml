@@ -1,6 +1,6 @@
 name: Alex Kahls Digital Garden
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
@@ -21,9 +21,11 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 LXKHL Digital Garden with quartz"
+  "🌱 LXKHL Digital Garden"
 links:
   - link_name: Twitter
     link: https://twitter.com/probefahrer
   - link_name: GitHub
     link: https://github.com/probefahrer
+  - link_name: Blog
+    link: https://blog.lxkhl.com

@@ -1,5 +1,5 @@
 baseURL = "https://probefahrer.github.io/quartz/"
-languageCode = "en-us"
+languageCode = "de"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
