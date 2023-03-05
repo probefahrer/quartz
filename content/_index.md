@@ -20,7 +20,7 @@ Meine [[NOW Page]] zeigt, womit ich mich aktuell viel beschäftige.
 
 [[Der kulturelle Standard ist es freie Zeit mit den Ideen anderer zu füllen statt mit unseren eigenen]] und das möchte ich für mich überwinden. 
 
-##Was ist Neuroproduktivität?
+## Was ist Neuroproduktivität?
 
 Im Grunde eine Zusammensetzung aus digitalen Produktivitätsansätzen, mit denen ich mich seit gut 30 Jahren beschäftige und 
 Erkenntnissen aus der **[[Neurodiversität]]** mit der ich im Verlaufe der Pandemie und diverser Lockdowns in Berührung gekommen bin. 
